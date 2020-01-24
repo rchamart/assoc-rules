@@ -1,0 +1,16 @@
+---- SOME NOTES TO THE GRADER -----
+
+INPUT PARAMETERS: 
+* for the handout testcase my code can be run as such: 
+* ex. 
+	python3 association-rules.py yelp5.csv 0.25 0.75 
+
+* template: 
+	python3 association-rules.py <DATASET.CSV> <MIN_SUP> <MIN_CONF> 
+
+
+OTHER NOTES: 
+* nothing to report really, it's written in python3 so please run with 
+	that in mind 	
+
+* runtime for the above example is about 35 - 45 seconds on data. 
